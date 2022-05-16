@@ -1,6 +1,4 @@
-# 서비스 소개
-
-![JMT](https://user-images.githubusercontent.com/89363516/164162946-7e45bf97-aea2-48af-aee2-6b41d6218422.PNG)
+# My Seccond Project
 
 **여행 중 지출 내역을 보다 편리하게 관리할 수 있고 여행을 편하게 기록할 수 있도록 만든 웹사이트입니다.**
 
@@ -14,4 +12,3 @@
 - 실시간 환율 적용 기능
 - 사용 내역 사진 등록 기능
 - 사용 내역 통계 및 그래프 기능
-# vanillaJS-changeHello
